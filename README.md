@@ -1,6 +1,3 @@
-**Here's a clean and professional `README.md`** for your new repository `flowo`:
-
-```markdown
 # Flowo
 
 > A modern, intuitive workflow / productivity tool (or whatever your project does).
@@ -96,12 +93,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ by Md Sabbir Hassan**
 ```
-
----
-
-### Next Steps:
-
-1. Copy the above content into your `README.md` file in the `flowo` repo.
-2. Replace placeholder parts (especially description, banner, features, tech stack) with actual details about what **Flowo** does.
-
-**Can you tell me briefly what Flowo is?** (e.g., is it a workflow tool, AI flow builder, task manager, etc.?) So I can make the README more accurate and specific.
